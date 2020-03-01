@@ -1,0 +1,7 @@
+E:\MATC\Third Semester\Advance OO\Visual Studio Apps\Lantz_Generics\Lantz_Generics\bin\Debug\Lantz_Generics.exe.config
+E:\MATC\Third Semester\Advance OO\Visual Studio Apps\Lantz_Generics\Lantz_Generics\bin\Debug\Lantz_Generics.exe
+E:\MATC\Third Semester\Advance OO\Visual Studio Apps\Lantz_Generics\Lantz_Generics\bin\Debug\Lantz_Generics.pdb
+E:\MATC\Third Semester\Advance OO\Visual Studio Apps\Lantz_Generics\Lantz_Generics\obj\Debug\Lantz_Generics.csprojAssemblyReference.cache
+E:\MATC\Third Semester\Advance OO\Visual Studio Apps\Lantz_Generics\Lantz_Generics\obj\Debug\Lantz_Generics.csproj.CoreCompileInputs.cache
+E:\MATC\Third Semester\Advance OO\Visual Studio Apps\Lantz_Generics\Lantz_Generics\obj\Debug\Lantz_Generics.exe
+E:\MATC\Third Semester\Advance OO\Visual Studio Apps\Lantz_Generics\Lantz_Generics\obj\Debug\Lantz_Generics.pdb
